@@ -4,10 +4,6 @@ Problem Statements with Analysis
 
 # Analysis:
 
-# prompt: give complete analysis of above all charts
-
-# Analysis of the charts generated in the provided code:
-
 # 1. Monthly Sales Analysis:
 - This line chart visualizes total sales across each month.
 - Key insights:
