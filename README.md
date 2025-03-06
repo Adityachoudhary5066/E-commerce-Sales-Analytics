@@ -4,7 +4,7 @@ Problem Statements with Analysis
 
 Conclusion:
 
-Sales Performance:
+# Sales Performance:
 - Monthly sales fluctuate throughout the year, indicating seasonality or promotional influences.
 - The "Office Supplies" category dominates sales, followed by "Furniture" and "Technology."
 - Within sub-categories, specific products demonstrate high sales, while others underperform.
@@ -16,3 +16,7 @@ Sales Performance:
 - Some sub-categories show high profits, while others exhibit lower profitability despite high sales, indicating potential cost issues.
 - The Consumer segment has the highest profit, solidifying its value to the business.
 - Sales-to-profit ratio analysis pinpoints customer segments where sales efficiency can be improved to maximize returns.
+
+# Recommendation:
+- The analysis reveals seasonal sales patterns and varying profitability across product categories and customer segments.
+- The Consumer segment is most valuable, but some sub-categories with high sales have low profit margins, suggesting opportunities to optimize pricing and costs.
